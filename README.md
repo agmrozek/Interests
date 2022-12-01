@@ -1,4 +1,4 @@
 ##Interests
 
-- [Natural Philosophy]
-- [Human Evolution]
+- Natural Philosophy
+- Human Evolution
